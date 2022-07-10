@@ -433,7 +433,7 @@ projects:
     category: refactoring
     pypi_id: add-trailing-comma
   - name: unimport
-    github_id: hakancelik96/unimport
+    github_id: hakancelikdev/unimport
     category: refactoring
     pypi_id: unimport
   - name: massedit
